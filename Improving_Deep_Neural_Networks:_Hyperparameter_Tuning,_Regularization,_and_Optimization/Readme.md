@@ -1,0 +1,1 @@
+Be familiar with practices in building deep learning, from develop train and test set, bias/variance analysis, up to standard techniques: initialization, regularization, batch normalization, hyperparameter tuning, and gradient checking. 
